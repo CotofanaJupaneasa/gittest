@@ -1,7 +1,8 @@
 here is some content
 a = 1;
 b = 2;
-c = 3;
+c = 30;
 d = 4;
 e = 5;
 Change1 - nothing
+Change4 - from Change1 - c = 3 --> 30
